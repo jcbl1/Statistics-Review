@@ -1,0 +1,70 @@
+{
+	"The Science of Statistics": {
+		"Statistics": "is the science of data.",
+		"Extra content (related)": {
+			"Figure": {
+				"m": "",
+				"Where these concepts come into play": [
+					"Title",
+					"Axis"
+				]
+			},
+			"Why learn Statistics in English?": [
+				"Scripts in Matlab",
+				"Search for infomation"
+			]
+		}
+	},
+	"Types of Statistical Applications in Business": {
+		"Descriptive statistics": "",
+		"Inferential statistics":"",
+		"Ex": {
+			"Application areas": [
+				"Economics",
+				"Engineering",
+				"Sports",
+				"Business"
+			]
+		}
+	},
+	"Fundemental Elements of Statistics": {
+		"Experimental (or observational) unit": "",
+		"Population":"",
+		"Variable":"",
+		"Sample":"",
+		"Statistical inference": "an estimate or prediction or some other generalization about a population based on information contained in a sample",
+		"Measure of reliability": "a statement (usually quantified) about the degree of uncertainty associated with a statistical inference",
+		"Four Elements of Descriptive Statistical Problems":[
+			"The population or sample of interest",
+			"One or more variables (characteristics of the population or experimental units) that are to be investigated",
+			"Tables, graphs, or numerical summary tools",
+			"Identification of patterns in the data"
+		],
+		"Five Elements of Inferential Statistical Problems":[]
+	},
+	"Processes (Optional)": {},
+	"Types of Data": {
+		"Quantitative data":"",
+		"Qualitative data":""
+	},
+	"Collecting Data: Sampling and Related Issues": {
+		"Experimental study":"",
+		"Observational study":"",
+		"Differences between ex... and ob...":[
+			"ex... tend to be more systematic, professional. So it's better most of the time",
+			"ex... are limited to a certain environment"
+		],
+		"Representative sample":"",
+		"Random sampling methods":[
+			"Simple random sampling",
+			"stratified sampling",
+			"cluster sampling",
+			"systematic sampling",
+			"randomized response sampling"
+		],
+		"Ex":{
+			"Experimental group and control group":""
+		}
+	},
+	"Critical Thinking with Statistics": {}
+}
